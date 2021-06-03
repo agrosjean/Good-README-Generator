@@ -48,6 +48,18 @@ const questions = [
         choices: ['MIT', 'APACHE', 'ABC', 'EFG']
     },
     {
+        type: "input",
+        name: "contribute",
+        message: "Enter contributing information: ",
+        name: "contribute"
+    },
+    {
+        type: "input",
+        name: "test",
+        message: "Enter any tests you are running for your project: ",
+        name: "tests"
+    },
+    {
         type: 'input',
         name: 'Questions',
         message: "Do you have any questions?"
