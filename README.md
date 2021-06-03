@@ -1,10 +1,29 @@
 #Title: Park Out
-  #Description: Recrationnal app for parks
-  #Version # 1.2
+
+  #Description: Application for parks
+
+  # Tables of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Credits](#credits)
+
+  #Github username: agrosjean
+
+  #Version: 1.2
+
   #Release Date: 06/02/2021
-  ## Github username: agrosjean
-  
-  ##Author Email: agrosjean007@gmail.com
-  ## License: ABC
-  ## Question: undefined
+
+  #Author Email: agrosjean007@gmail.com
+
+  #License: EFG
+
+  #Contribute: Use async function 
+
+  #Tests: undefined
+
+  #Question: undefined
   
